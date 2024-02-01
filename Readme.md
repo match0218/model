@@ -10,6 +10,6 @@ in docker console
 # 3. connect docker container
 `docker exec -it <container_id> /bin/bash` (get container id using `docker ps`)
 
-in doker console
+in docker console
 
 `ollama run tinyllama`
